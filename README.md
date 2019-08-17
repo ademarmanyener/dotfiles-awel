@@ -1,2 +1,2 @@
-<h2>rofi - polybar</h2>
+<h3>awel nior</h3>
 <img src="ss.png">
