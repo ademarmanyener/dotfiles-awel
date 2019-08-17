@@ -1,2 +1,2 @@
-<h2>rofi - polybar</h2>
+<h2>awel lumine</h2>
 <img src="ss.png">
